@@ -59,7 +59,7 @@ without following any guide, to improve my understanding of JavaScript.
 ---
 
 ## 🌍 live link
-()
+(https://rohitdhurve4788-pixel.github.io/SNAKE-GAME-USING-HTML-CSS-JS/)
 
 ---
 
